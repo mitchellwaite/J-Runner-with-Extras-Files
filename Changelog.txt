@@ -3,6 +3,7 @@ J-Runner with Extras Changelog
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 V3.4.0 r6:
+- Added: 1838 support for 16mb JTAGs
 - Added: XeLL kboot.conf now supports omitting the drive prefix for boot file paths
 - Changed: XeLL theme customizer removed
 - Changed: XeLL included with JRunner is now fully built from upstream (with TFTP support turned off)
