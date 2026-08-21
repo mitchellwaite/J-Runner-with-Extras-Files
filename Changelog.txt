@@ -5,10 +5,12 @@ J-Runner with Extras Changelog
 V3.4.0 r6:
 - Added: 1838 support for 16mb JTAGs
 - Added: XeLL kboot.conf now supports omitting the drive prefix for boot file paths
+- Added: Winchester/Winchester 4G/Winchester BB options in the Advanced section of the console select dialog
 - Changed: XeLL theme customizer removed
-- Changed: XeLL included with JRunner is now fully built from upstream (with TFTP support turned off)
+- Changed: XeLL included with JRunner is now built from upstream (with TFTP support disabled)
 - Fixed: XeLL will no longer print warnings for newlines in the kboot.conf
 - Fixed: XeLL now shows the console type
+- Fixed: XeLL now shows the DVD drive firmware revision
 
 V3.4.0 r5:
 - Added: Support for 1838 on systems with Rhea and Gunga GPUs (Thanks to Scar (kavkazsila) for the graphics driver patches!)
