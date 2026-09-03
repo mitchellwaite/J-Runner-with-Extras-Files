@@ -8,6 +8,7 @@ V3.4.0 r6:
 - Added: Winchester/Winchester 4G/Winchester BB options in the Advanced section of the console select dialog
 - Changed: XeLL theme customizer removed
 - Changed: XeLL included with JRunner is now built from upstream (with TFTP support disabled)
+- Fixed: HddSsAuth patch made default to prevent FAT corruption when a FATXplorer formatted SSD or Softmod formatted HDD is attached
 - Fixed: XeLL will no longer print warnings for newlines in the kboot.conf
 - Fixed: XeLL now shows the console type
 - Fixed: XeLL now shows the DVD drive firmware revision
