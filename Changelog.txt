@@ -5,9 +5,11 @@ J-Runner with Extras Changelog
 V3.4.0 r6:
 - Added: 1838 support for 16mb JTAGs
 - Added: XeLL kboot.conf now supports omitting the drive prefix for boot file paths
+- Added: XeLL now supports booting ISOHybrid images from USB
 - Added: Winchester/Winchester 4G/Winchester BB options in the Advanced section of the console select dialog
 - Changed: XeLL theme customizer removed
 - Changed: XeLL included with JRunner is now built from upstream (with TFTP support disabled)
+- Fixed: Both "Inject XeLL" in JRunner and updxell.bin now work for XDKBuild images other than 17489
 - Fixed: HddSsAuth patch made default to prevent FAT corruption when a FATXplorer formatted SSD or Softmod formatted HDD is attached
 - Fixed: XeLL will no longer print warnings for newlines in the kboot.conf
 - Fixed: XeLL now shows the console type
