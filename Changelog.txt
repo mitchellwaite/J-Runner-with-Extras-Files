@@ -2,6 +2,9 @@ J-Runner with Extras Changelog
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
+V3.4.0 r7:
+- Fixed: Use the old drive auth patch for 17559 XL HDD patch only
+
 V3.4.0 r6:
 - Added: 1838 support for 16mb JTAGs
 - Added: XeLL kboot.conf now supports omitting the drive prefix for boot file paths
